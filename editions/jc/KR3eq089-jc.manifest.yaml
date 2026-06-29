@@ -1,0 +1,120 @@
+canonical_identifier: bkk:krp/KR3eq089/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq089/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 重慶堂隨筆
+  identifiers:
+    krp: KR3eq089
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq089.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq089_000-jc.yaml, hash: 'sha256:9130ee7d7ba6a79a74e699c62c9bca842f5708211a273d835cba4f7a1df5b23d'}
+  - {seq: 1, filename: KR3eq089_001-jc.yaml, hash: 'sha256:2f873ed7276e1fba87dec69d4916195b9090112fba9b42a2b8ae06e26f8b0744'}
+  - {seq: 3, filename: KR3eq089_003-jc.yaml, hash: 'sha256:c75cf1b66de37b3948bc85f55ba835d3dfcde4c1314ebc3c5fe71ca57369d9c5'}
+  - {seq: 0, filename: KR3eq089_000-jc.yaml, hash: 'sha256:b46690dc6615507cad67b714d6ae1cda47a71ade947703cfcd87fe963c98b8f1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq089_000-jc.markers.yaml, hash: 'sha256:a1a62eefc58d1e4ebafdf41bd4f90c71d754b1e610c7663d61d3ba669a323d01'}
+  - {seq: 1, role: markers, filename: assets/KR3eq089_001-jc.markers.yaml, hash: 'sha256:7b6c4f45dd2ddee0e73e9c883bf0357e1a7fa423ef66f7a9dba7dbdfe2cb1c8e'}
+  - {seq: 3, role: markers, filename: assets/KR3eq089_003-jc.markers.yaml, hash: 'sha256:49865ef8ee0a7a32dd82e7c59dfe32a7a8fc489ecb281a90ca3ff457b31cbca6'}
+  - {seq: 0, role: markers, filename: assets/KR3eq089_000-jc.markers.yaml, hash: 'sha256:a1a62eefc58d1e4ebafdf41bd4f90c71d754b1e610c7663d61d3ba669a323d01'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq089_jc_000-d3.h1s1
+    span:
+    - front
+    - 0
+    - 800
+  label: 楊序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq089_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 539
+  label: 弁言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq089_jc_000-d4.h1s1
+    span:
+    - body
+    - 539
+    - 2339
+  label: 總評
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq089_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 23081
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eq089_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 20276
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq089_jc_000-d7.h1s1
+    span:
+    - body
+    - 0
+    - 1085
+  label: 書人身圖說後
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq089_jc_000-d8.h1s1
+    span:
+    - body
+    - 1085
+    - 2081
+  label: 書醫林改錯後
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq089_jc_000-d9.h1s1
+    span:
+    - body
+    - 2081
+    - 2802
+  label: 書醫林改錯後
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq089_jc_000-d10.h1s1
+    span:
+    - body
+    - 2802
+    - 8217
+  label: 讀全體新論
+  type: section
+  level: 1
+hash: sha256:96763c43b2ada02d8b0c43f72eff12700e4cf4112dde311f61c6afc4e55d1c80
